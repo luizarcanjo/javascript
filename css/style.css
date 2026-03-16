@@ -1,0 +1,25 @@
+     body {
+         text-align: center;
+     }
+
+     #materias {
+         #materias {
+             width: 600px;
+             margin-left: auto;
+             margin-right: auto;
+
+         }
+
+         /* Ajusta a largura do menu dropdown */
+         .dropdown-content {
+             width: 250px !important;
+             /* Ajuste o valor conforme sua necessidade */
+             min-width: 250px !important;
+         }
+
+         /* Opcional: Ajusta a largura dos itens dentro dele */
+         .dropdown-content li>a {
+             font-size: 16px;
+             padding: 10px 16px;
+         }
+     }
